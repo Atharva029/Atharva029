@@ -22,9 +22,12 @@ with emphasis on scalability, explainability, and real-world deployment
   <li>Designing <b>end-to-end software systems</b> with clean and scalable architectures</li>
   <li>Building <b>backend-driven applications</b> using structured data models</li>
   <li>Applying <b>machine learning and optimization techniques</b> to real-world problems</li>
-  <li>Developing <b>explainable and production-oriented AI solutions</b></li>
-  <li>Working across the intersection of <b>software engineering and applied intelligence</b></li>
-  <li>Fun Fact: 我也会讲中文 </li>
+  <li>Developing <b>explainable and production-oriented solutions</b></li>
+  <li>Working across the intersection of <b>software engineering and applied intelligence</b></li>  
+  <li>Fun Fact: The first computer virus was a Creeper.
+ <img src="https://media.tenor.com/uhQ5MrGLA2XAAAAC/minecraft-creeper.gif" width="80"/>
+</li>
+
 </ul>
 
 <hr/>
@@ -34,7 +37,7 @@ with emphasis on scalability, explainability, and real-world deployment
 <p align="left">
 <a href="https://www.linkedin.com/in/atharva-barve-52240b350/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-height="30" width="40" />
+height="40" width="50" />
 </a>
 </p>
 
@@ -44,40 +47,44 @@ height="30" width="40" />
 
 <p><b>Programming Languages</b></p>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
 </p>
 
 <p><b>Backend & Databases</b></p>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60"/>
 </p>
 
 <p><b>Frontend</b></p>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
 </p>
 
 <p><b>AI / Machine Learning</b></p>
 <p>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50"/>
 </p>
 
 <p><b>Tools & Platforms</b></p>
 <p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
 </p>
 
 <hr/>
 
-<h1 align="center">Thank you visiting 👋 
+<div align="center">
+  <h1> Thank you for visiting 👋 
+</div>
+
+
 
