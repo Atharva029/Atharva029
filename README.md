@@ -12,6 +12,10 @@ with emphasis on scalability, explainability, and real-world deployment
 
 <hr/>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align = centre style="width: 100%">
+
+<hr/>
+
 <h3 align="left">🧠 What I Focus On</h3>
 
 <ul>
@@ -75,5 +79,5 @@ height="30" width="40" />
 
 <hr/>
 
-
+<h1 align="center">Thank you visiting 👋 
 
